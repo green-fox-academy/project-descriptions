@@ -111,9 +111,10 @@ go towards more complicated features:
 
 ### H-Bridge Motor driver
 
-![vnh5019 motor driver](resource/image/motor_driver.jpg)
+![VNH5019 motor driver](resource/image/motor_driver.jpg)
 
-* [vnh5019 Motor driver Datasheet](resource/docs/vnh5019_motor_driver_datasheet.pdf)
+* [POLOLU-1451 motor driver module datasheet](https://www.tme.eu/Document/8fb7fcfe7bc3620e83f9fa7d3226e3fd/POLOLU-1451.pdf)
+* [VNH5019 Motor driver IC datasheet](resource/docs/vnh5019_motor_driver_datasheet.pdf)
 
 ### RGB sensor
 
