@@ -12,3 +12,4 @@
 - [Tribes (React)](tribes-react.md)
 - [Tribes (SpringBoot)](tribes-java.md)
 - [Hotel-Booking (ASP.NET)](hotel-booking-asp.net.md)
+- [Foxticket](foxticket.md)
